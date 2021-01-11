@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-import Footer from '../Footer';
 import { formatPrice } from './helpers';
 
 
