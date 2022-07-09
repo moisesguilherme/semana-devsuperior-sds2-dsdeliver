@@ -9,8 +9,7 @@ DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª
 
 A aplicação consiste em um sistema de pedido e entrega de restaurante. Os dados da solicitação do pedido são coletados via web e posteriormente os pedidos são entregues e confirmados no app mobile.
 
-## Layout mobile
-![Mobile 1](https://github.com/moisesguilherme/assets/blob/main/sds2-dsdeliver/mobile_01.png) ![Mobile 2](https://github.com/moisesguilherme/assets/blob/main/sds2-dsdeliver/mobile_02.png) ![Mobile 3](https://github.com/moisesguilherme/assets/blob/main/sds2-dsdeliver/mobile_03.png)
+(https://github.com/moisesguilherme/assets/blob/main/sds2-dsdeliver/ws-dsdeliver.gif)
 
 ## Layout web
 ![Web 1](https://github.com/moisesguilherme/assets/blob/main/sds2-dsdeliver/web_01.png)
